@@ -11,7 +11,7 @@
 
 ### STATS
 
-![Lucasvitorre Github stats](https://github-readme-stats.vercel.app/api?username=lucasvitorre&show_icons=true&theme=dark)
+![Lucasvitorre Github stats](https://github-readme-stats.vercel.app/api?username=lucasvitorre&show_icons=true&theme=dark) ![Lucasvitorre GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvitorre&hide=contribs,prs)
 
 ### Contacts
 
