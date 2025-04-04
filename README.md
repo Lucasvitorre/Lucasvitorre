@@ -1,6 +1,6 @@
-# Olá sou o Lucas Oliveira! 👐🏻
+# Hi, i'm Lucas Oliveira! 👐🏻
 
-## Sou Analista de Suporte migrando para ser um futuro dev python.
+## I'm an IT Support Analyst with a focus on process automation using Python.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasvitorre/)
 
