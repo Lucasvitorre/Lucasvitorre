@@ -1,6 +1,6 @@
 # Hi, i'm Lucas Oliveira! 👐🏻
 
-## I'm an IT Support Analyst with a focus on process automation using Python.
+## I'm an IT Support Analyst with a focus on process automation using Python and PowerAutomate.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasvitorre/)
 
